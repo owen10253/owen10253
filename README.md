@@ -1,4 +1,11 @@
-### Hi there 👋
+<h2> Hi, I'm Shuwei Owen Lin!</h2>
+<p><em>
+  Software Enginner
+</br>
+</em></p>
+
+[![Linkedin: thaianebraga]
+(https://img.shields.io/badge/-shuwei-lin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuwei-lin/)](https://www.linkedin.com/in/shuwei-lin/)
 
 I'm software developer and performance engineer with 3 years of experience in health care and variable printing industries. A collaborative and adaptable developer with experience in agile-like development processes using Jira/Trello. Utilize excellent leadership and communications skills to accomplish time sensitive complex projects in an inter-departmental working environment. Strong analytical skills with a MS in Mechanical Engineering from Cal Poly Pomona, and BS in Mathematics Specialize in Computing from UCLA. 
 
