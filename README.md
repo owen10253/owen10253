@@ -15,7 +15,8 @@
 const owen = {
   pronouns: "he" | "his",
   code: [JavaScript, SQL, T-SQL, HTML, CSS, Java, C++],
-  tools: [React, Redux, Node, NextJS, Strapi.io, GraphQL, SSIS, SSRS, SSMS],
+  tools: [React, Redux, Node, NextJS, Strapi.io, NGINX, GraphQL, SSIS, SSRS, SSMS],
+  database: [Micosoft SQL Server 2014 & 2016, MySQL, MongoDB, PostgreSQL]
   architecture: ["microservices", "server-side-rendering", "database performance optimization"],
   os: [windows, macos, linux]
 }
