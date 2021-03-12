@@ -14,9 +14,10 @@
 ```javascript
 const owen = {
   pronouns: "he" | "his",
-  code: [Javascript, SQL, T-SQL, HTML, CSS, Ruby, Python, Java],
+  code: [JavaScript, SQL, T-SQL, HTML, CSS, Java, C++],
   tools: [React, Redux, Node, NextJS, Strapi.io, GraphQL, SSIS, SSRS, SSMS],
   architecture: ["microservices", "server-side-rendering", "database performance optimization"],
+  os: [windows, macos, linux]
 }
 ```
 
