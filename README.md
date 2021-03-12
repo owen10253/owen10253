@@ -8,6 +8,22 @@
 
 [![Linkedin: shuweilin](https://img.shields.io/badge/LinkedIn-shuweilin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuwei-lin/)](https://www.linkedin.com/in/shuwei-lin/)
 
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const owen = {
+  pronouns: "he" | "his",
+  code: [Javascript, SQL, T-SQL, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, NextJS, Strapi.io, GraphQL, SSIS, SSRS, SSMS],
+  architecture: ["microservices", "server-side-rendering", "database performance optimization"],
+}
+```
+
+
+
+
+
 <!--
 **owen10253/owen10253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
