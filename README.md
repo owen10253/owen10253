@@ -14,10 +14,10 @@
 ```javascript
 const owen = {
   pronouns: ["he" | "his"],
-  code: ["JavaScript", "SQL", "T-SQL", "HTML", "CSS", "Java", "C++"],
-  tools: ["React", "Redux", "Node", "NextJS", "Strapi.io", "NGINX", "GraphQL", "SSIS", "SSRS", "SSMS"],
+  code: ["JavaScript", "TypeScript", "SQL", "T-SQL", "Go", "HTML", "CSS", "Java", "C++"],
+  tools: ["Chrome", "React", "Redux", "Node", "NextJS", "Strapi.io", "NGINX", "GraphQL", "SSIS", "SSRS", "SSMS"],
   database: ["Micosoft SQL Server 2014 & 2016", "MySQL", "MongoDB", "PostgreSQL"],
-  architecture: ["microservices", "server-side-rendering", "database performance optimization"],
+  architecture: ["MVC", "microservices", "server-side-rendering", "database performance optimization"],
   os: ["Windows", "Mac OSX", "Linux"]
 }
 ```
