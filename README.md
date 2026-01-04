@@ -1,42 +1,105 @@
-<h2> Hi, I'm Shuwei Owen Lin!</h2>
-<p>
-  <em>
-    <h4>Software Engineer</h4>
-    <p>I'm software developer and performance engineer with 3 years of experience in health care and variable printing industries. A collaborative and adaptable developer with experience in agile-like development processes using Jira/Trello. Utilize excellent leadership and communications skills to accomplish time sensitive complex projects in an inter-departmental working environment. Strong analytical skills with a MS in Mechanical Engineering from Cal Poly Pomona, and BS in Mathematics Specialize in Computing from UCLA. </p>
-  </em>
-</p>
+# Hi, I'm Shuwei Lin 👋
 
-[![Linkedin: shuweilin](https://img.shields.io/badge/LinkedIn-shuweilin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shuwei-lin/)](https://www.linkedin.com/in/shuwei-lin/)
+## Senior Backend Software Engineer
 
+I’m a backend-focused software engineer with extensive experience designing, building, and operating scalable, event-driven systems in production environments. My work centers on API design, distributed systems, cloud-native architectures, and developer productivity, with  strong emphasis on reliability, observability, and maintainability.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+I’ve worked across fintech, health insurance, media AI platforms, enterprise data systems, and e-commerce, building services that support high-throughput workloads, real-time event processing, and complex third-party integrations. I enjoy translating ambiguous business requirements into  lear technical architectures and mentoring through code, documentation, and system design.
 
-```javascript
+I hold an **MS in Mechanical Engineering** from **Cal Poly Pomona** and a **BS in Mathematics (Specialization in Computing)** from **UCLA**, which strongly influences my analytical and systems-oriented approach to engineering.
+
+I’m currently exploring how **AI can augment backend engineering workflows**, including incident analysis, system documentation, architecture reasoning, and developer tooling.
+
+---
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shuweilin-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shuwei-lin/)
+[![Email](https://img.shields.io/badge/Email-shuweilin.me-informational?style=flat-square)](mailto:shuweilin1019@gmail.com)
+
+---
+
+## Tech Stack
+
+```ts
 const owen = {
-  pronouns: ["he" | "his"],
-  code: ["JavaScript", "TypeScript", "SQL", "T-SQL", "Go", "HTML", "CSS", "Java", "C++"],
-  tools: ["Chrome", "React", "Redux", "Node", "NextJS", "Strapi.io", "NGINX", "GraphQL", "SSIS", "SSRS", "SSMS"],
-  database: ["Micosoft SQL Server 2014 & 2016", "MySQL", "MongoDB", "PostgreSQL"],
-  architecture: ["MVC", "microservices", "server-side-rendering", "database performance optimization"],
-  os: ["Windows", "Mac OSX", "Linux"]
-}
+  languages: [
+    "TypeScript",
+    "JavaScript",
+    "SQL",
+    "T-SQL",
+    "Go",
+    "Java",
+    "C++"
+  ],
+
+  backend: [
+    "Node.js",
+    "NestJS",
+    "REST APIs",
+    "GraphQL",
+    "Event-Driven Architecture",
+    "Kafka",
+    "AWS SQS"
+  ],
+
+  cloud_and_infra: [
+    "AWS (DynamoDB, CloudWatch, SQS)",
+    "Docker",
+    "Kubernetes",
+    "CI/CD",
+    "Infrastructure Observability"
+  ],
+
+  databases: [
+    "PostgreSQL",
+    "Microsoft SQL Server",
+    "DynamoDB",
+    "MySQL",
+    "MongoDB"
+  ],
+
+  architecture: [
+    "Microservices",
+    "Distributed Systems",
+    "API-First Design",
+    "Schema Design",
+    "Performance Optimization"
+  ],
+
+  operating_systems: ["macOS", "Linux", "Windows"]
+};
 ```
 
+---
 
+## What I’m Working On
 
+- Building scalable backend services using **TypeScript, NestJS, and AWS**
+- Designing **event-driven systems** with Kafka and SQS
+- Improving **observability, error handling, and operational resilience**
+- Exploring **AI-assisted tooling** for:
+  - Incident analysis
+  - Architecture documentation (ADR generation)
+  - Developer productivity and code reasoning
 
+---
 
-<!--
-**owen10253/owen10253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Care About
 
-Here are some ideas to get you started:
+- Clean APIs and well-defined contracts
+- Systems that fail predictably and recover gracefully
+- Code that is easy to understand and maintain long-term
+- Using AI as a **force multiplier**, not a replacement for engineering judgment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Fun Facts
+
+- Strong preference for backend and infrastructure work
+- Enjoy turning complex systems into simple mental models
+- Believe good documentation is a feature, not a luxury
+
+---
+
+_Thanks for stopping by!_
