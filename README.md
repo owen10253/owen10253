@@ -15,7 +15,6 @@ I’m currently exploring how **AI can augment backend engineering workflows**, 
 ## Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-shuweilin-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/shuwei-lin/)
-[![Email](https://img.shields.io/badge/Email-shuweilin.me-informational?style=flat-square)](mailto:shuweilin1019@gmail.com)
 
 ---
 
