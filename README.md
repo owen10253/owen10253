@@ -26,9 +26,9 @@ const owen = {
     "JavaScript",
     "SQL",
     "T-SQL",
+    "C#",
     "Go",
-    "Java",
-    "C++"
+    "Java"
   ],
 
   backend: [
@@ -36,9 +36,11 @@ const owen = {
     "NestJS",
     "REST APIs",
     "GraphQL",
-    "Event-Driven Architecture",
+    'Microservice",
+    "Express.js",
     "Kafka",
-    "AWS SQS"
+    "AWS SQS",
+    "CloudWatch"
   ],
 
   cloud_and_infra: [
@@ -59,6 +61,7 @@ const owen = {
 
   architecture: [
     "Microservices",
+    "Event-Driven Architecture",
     "Distributed Systems",
     "API-First Design",
     "Schema Design",
