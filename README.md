@@ -36,7 +36,7 @@ const owen = {
     "NestJS",
     "REST APIs",
     "GraphQL",
-    'Microservice",
+    "Microservice",
     "Express.js",
     "Kafka",
     "AWS SQS",
