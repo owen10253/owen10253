@@ -38,13 +38,11 @@ const owen = {
     "GraphQL",
     "Microservice",
     "Express.js",
-    "Kafka",
-    "AWS SQS",
-    "CloudWatch"
+    "Kafka"
   ],
 
   cloud_and_infra: [
-    "AWS (DynamoDB, CloudWatch, SQS)",
+    "AWS (DynamoDB, CloudWatch, SQS, S3, EC2, IAM)",
     "Docker",
     "Kubernetes",
     "CI/CD",
